@@ -8,9 +8,7 @@ The tracking data spans over 30 years of animal positions and sensor readings; a
 ## Deployment
 * Metadata for transmitter platform deployments (species, individual, technology, data provider, tracking technology, platform id and model, etc.)
 
-## Seabird
-
-[tracking/seabird/map](http://data.npolar.no/tracking/seabird/map)
+## [Seabird](https://data.npolar.no/tracking/seabird)
 
 * Seabird distribution maps (heatmap and kernel density estimates)
 * Tracking data from SEATRACK/SEAPOP project (GLS loggers)
